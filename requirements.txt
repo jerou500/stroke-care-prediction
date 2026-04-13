@@ -1,0 +1,10 @@
+pandas
+numpy==1.26.4
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+openpyxl
+xlrd==1.2.0
+jupyter
